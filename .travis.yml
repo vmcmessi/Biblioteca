@@ -1,2 +1,2 @@
 language: java
-install: true
+install: junit:junit:4.12
