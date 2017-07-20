@@ -16,7 +16,7 @@ public class Livro extends Exemplar
     private int edicao;
 
     public Livro(String nmAutor, int anoPublicacao, int edicao){
-        super();
+        //super();
         setAutor(nmAutor);
         setAnoPublicacao(anoPublicacao);
         setEdicao(edicao);
