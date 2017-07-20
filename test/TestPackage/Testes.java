@@ -141,7 +141,7 @@ public class Testes {
     @Test
     public void testHellowWorld() {
         Biblioteca biblio = new Biblioteca();
-        assertEquals("A test for Hello World String", "Hello World", biblio.sayHello());
+        assertEquals("A test for Hello World String", "Hello Worljkasdjhsadd", biblio.sayHello());
     }
 
     // TODO add test methods here.
