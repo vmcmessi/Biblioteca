@@ -25,7 +25,7 @@ public class Livro extends Exemplar
     public Livro(){
         super();
         setAutor("");
-       // setAnoPublicacao(0);
+        setAnoPublicacao(0);
         setEdicao(0);
     }
     
